@@ -11,5 +11,5 @@ def using_pop(array)
 end
 
 def using pop_with_args(array)
-  array.leght
+  array.lenght
 end
